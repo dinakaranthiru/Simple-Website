@@ -1,0 +1,35 @@
+FULL STACK NOTES:
+
+HTML- hyper text markup langauge:
+   1.markup langauge
+   2.basic bulding blocks of every website in the world
+STRUCTURE:
+<!Doctype html>
+<html>
+     <head>
+<title>   
+  </title>
+      </head>
+   <body>
+   </body>
+</html>
+
+
+TAGS:
+
+1.Heading tag - <h1></h1>(it has 6 tags like,h1,h2..,h6).
+2.Paragraph tag - <p></p>
+3.<br> - break tag
+4.<hr> - horizontal line tag.
+5.<B></B> - bold tag to bold the text.
+<i></i> - italic tag to change the style of the text.
+<u></u> - underline tag.
+(we can use both bold italic and underline tag in same text)
+ex:<b><i><u></b></i><u/> like this we can combine this tags.
+6.<a herf=""></a> - to  link a website.(to open in another tab we can use the target tag).
+7.Target="" - target tab used inside the <a herf="" target="">.
+8. list tag - <ul></ul>(unorder list) <li></li>(order list)
+
+  
+
+

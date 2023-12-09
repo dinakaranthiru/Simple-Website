@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    width: auto;
+    padding: 40px;
+    color: rgb(2, 11, 18);
+}
+section{
+    text-align: center;
+    padding: 40px;
+}
+p{
+    
+    text-align: center;
+    padding-bottom: 40px;
+}
+body{
+    background-color: lightseagreen;
+}
+button{
+    padding: 10px;
+    background-color: rgb(119, 118, 117);
+    border: 20px;
+    border-radius: 18px;
+    box-shadow: inset;
+    cursor: pointer;
+    color: white;
+    border-color: yellow;
+
+}
